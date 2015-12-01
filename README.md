@@ -1,5 +1,5 @@
 # lbfgs
-all about lbfgs optimization algorithm:
+everything about lbfgs optimization algorithm:
 
 ## Papers:
 
