@@ -14,3 +14,4 @@ everything about lbfgs optimization algorithm:
 1. libLBFGS (https://github.com/chokkan/liblbfgs)
 2. libLBFGS wrapper to lua (https://github.com/clementfarabet/lbfgs)
 3. lua (https://github.com/torch/optim/blob/master/lbfgs.lua)
+4. С++ solvers (https://github.com/PatWie/CppNumericalSolvers)
