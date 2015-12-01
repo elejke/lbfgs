@@ -1,6 +1,6 @@
 # lbfgs
 everything about lbfgs optimization algorithm:
-
+![](https://github.com/elejke/lbfgs/blob/master/lbfgs.png)
 ## Papers:
 
 1. A Stochastic Quasi-Newton Method for Online Convex Optimization (http://www.schraudolph.org/pubs/SchYuGue07.pdf)
