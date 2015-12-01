@@ -1,2 +1,4 @@
 # lbfgs
-optimization
+all about lbfgs optimization algorithm:
+
+## Papers:
